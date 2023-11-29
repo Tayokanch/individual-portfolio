@@ -2,6 +2,8 @@
 
 https://flourishing-kheer-34d686.netlify.app/
 
+https://github.com/Tayokanch/My-Portfolio
+
 ## Contents
 
 - [Individual Portfolio](#individual-portfolio)
